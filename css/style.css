@@ -246,8 +246,12 @@ img {
 }
 .first-article{
   background-color: rgb(133, 179, 209);
-  padding: 40px;
-
+  padding: 30px;
+}
+.second-article{
+  background-color: rgb(207, 139, 224);
+  padding: 30px;
+}
 @media only screen and (max-width: 992px) {
   #posts {
     grid-template-columns: repeat(2, 1fr);
