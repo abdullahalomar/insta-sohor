@@ -244,6 +244,9 @@ img {
 #reported{
   display: none;
 }
+.first-article{
+  background-color: rgb(133, 179, 209);
+  padding: 40px;
 
 @media only screen and (max-width: 992px) {
   #posts {
